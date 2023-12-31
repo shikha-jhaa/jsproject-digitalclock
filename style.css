@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: verdana;
+}
+body{
+    background-image: url(img.png.jpeg);
+    height: 100vh;
+    width: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
